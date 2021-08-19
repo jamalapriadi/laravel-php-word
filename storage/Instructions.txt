@@ -1,0 +1,17 @@
+Server Specification:
+
+* Laravel 5.4
+* PHP 7.1
+
+Goal:
+
+* To convert docx to image for viewing on browser
+
+Instructions:
+
+* Create small HTML / PHP application, with one upload field and submit button
+* You will need to upload the file attached on this folder
+* And convert it to image
+* resulting file will need to reflect the same content as in original docx file
+
+
